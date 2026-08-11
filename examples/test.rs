@@ -1,5 +1,4 @@
 use small_net_lib::*;
-use small_net_lib::activation_function::*;
 use rand::*;
 use rand_distr::{Normal,Distribution};
 use std::time::Instant;
